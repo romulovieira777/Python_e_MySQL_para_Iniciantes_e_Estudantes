@@ -1,0 +1,5 @@
+Python
+https://www.python.org/downloads/
+
+Visual Stdio Code
+https://code.visualstudio.com/download

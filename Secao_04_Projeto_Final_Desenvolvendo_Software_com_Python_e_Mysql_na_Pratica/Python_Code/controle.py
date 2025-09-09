@@ -24,6 +24,7 @@ def inserir():
     formulario.txtProduto.setText("")
     formulario.txtPreco.setText("")
     formulario.txtEstoque.setText("")
+    formulario.lblConfirmacao.setText("Produto cadastrado com sucesso!")
 
 
 app = QtWidgets.QApplication([])
